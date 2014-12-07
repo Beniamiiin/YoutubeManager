@@ -7,7 +7,7 @@
 
 #import "BSYoutubeManager.h"
 
-#import "GTLYouTube.h"
+//#import "GTLYouTube.h"
 
 static NSString *const kHasNotVideoErrorDomain = @"HasNotVideoErrorDomain";
 enum
