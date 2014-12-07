@@ -1,0 +1,3 @@
+[submodule "YoutubeSDK"]
+	path = YoutubeSDK
+	url = https://github.com/BenjaminSarkisyan/YoutubeSDK.git
